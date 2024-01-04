@@ -1,5 +1,34 @@
-<h1 align="center">Hi 👋, I'm Rudra</h1>
-<h3 align="center">A passionate MERNSTACK & MOBILE-APP developer from India</h3>
+<h1 align="center"># Hi there! 👋 I'm Rudra, a passionate college student with a love for coding and a curious mind. Here's a little about me:</h1>
+## 👨‍💻 About Me
+- 🎓 Currently pursuing [B.TECH] at [IEM Kolkata]
+- 💻 Enthusiastic about web development, ethical hacking, and data science
+- 🚀 Love working with React Native for mobile app development
+
+## 🌐 Web Development
+- 🌟 Proficient in HTML, CSS, JavaScript
+- ⚛️ Experienced with React and React Native
+- 📱 Building awesome cross-platform mobile apps
+
+## 🔐 Ethical Hacking
+- 👁️‍🗨️ Passionate about cybersecurity
+- 🛡️ Exploring ethical hacking techniques and tools
+- 🌐 Always learning to stay ahead in the security game
+
+## 📊 Data Science
+- 📈 Keen interest in data analysis and visualization
+- 🤖 Exploring machine learning algorithms
+- 📚 Continuous learning to keep up with the evolving field
+
+## 🎨 Hobbies
+- ✏️ Drawing is my creative escape
+- 💻 Coding is both a hobby and a profession
+
+## 📫 Let's Connect
+- 🔗 LinkedIn: linkedin.com/in/rudra-saha-ab6a7b28a
+- 🐦 Twitter: https://x.com/Rudra_X_Rudra/
+
+Feel free to explore my repositories and projects. Happy coding! 🚀
+
 <img align="right" alt="coding" width="550" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrajiii&label=Profile%20views&color=0e75b6&style=flat" alt="rudrajiii" /> </p>
 
