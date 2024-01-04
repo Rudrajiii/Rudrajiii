@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="550" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrajiii&label=Profile%20views&color=0e75b6&style=flat" alt="rudrajiii" /> </p>
 
-- 🔭 I’m currently working on **Starbucks-Clone**
+- 🔭 I’m currently working on **POSTGRES SQL WITH PYTHON**
 
 - 🌱 I’m currently learning **NODE JS & REACT JS**
 
