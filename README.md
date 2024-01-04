@@ -1,6 +1,6 @@
 <h1 align="center"># Hi there! 👋 I'm Rudra, a passionate college student with a love for coding and a curious mind. Here's a little about me:</h1>
 ## 👨‍💻 About Me
-- 🎓 Currently pursuing [B.TECH] at [IEM Kolkata]
+- 🎓 Currently pursuing B.TECH at IEM Kolkata
 - 💻 Enthusiastic about web development, ethical hacking, and data science
 - 🚀 Love working with React Native for mobile app development
 
@@ -24,7 +24,7 @@
 - 💻 Coding is both a hobby and a profession
 
 ## 📫 Let's Connect
-- 🔗 LinkedIn: linkedin.com/in/rudra-saha-ab6a7b28a
+- 🔗 LinkedIn: https://www.linkedin.com/in/rudra-saha-ab6a7b28a
 - 🐦 Twitter: https://x.com/Rudra_X_Rudra/
 
 Feel free to explore my repositories and projects. Happy coding! 🚀
