@@ -22,7 +22,7 @@
   <a href="https://twitter.com/rudra" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudra" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/rudra" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/rudra" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rudra" height="30" width="40" /></a>
-  <a href="linkedin.com/in/rudra-saha-ab6a7b28a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudrasaha305" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/rudrasaha305" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudrasaha305" height="30" width="40" /></a>
 </p>
 
 ### Languages:
