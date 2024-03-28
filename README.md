@@ -19,7 +19,7 @@
 
 ### Connect with me:
 <p align="center">
-<a href="https://twitter.com/rudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudra" height="30" width="40" /></a>
+<a href="https://twitter.com/Rudra_X_Rudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudra" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rudra-saha-ab6a7b28a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rudra-saha-ab6a7b28a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rudra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rudrasaha305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudrasaha305" height="30" width="40" /></a>
