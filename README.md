@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rudra
+# Hi 👋 I'm Rudra
 ## A Passionate Learner From India. Recently Started Learning About React & Ml
 
 <p align="center"> 
