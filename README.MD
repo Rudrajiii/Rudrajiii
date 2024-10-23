@@ -10,13 +10,6 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Node, LLM's, Several Gen-Ai Tools**
-- 🌱 I’m currently learning **ML, REACT**
-- 💬 Ask me about **Python, JavaScript, Gen-AI**
-- 📫 How to reach me: **rudrasaha504@gmail.com**
-- ⚡ Fun fact: **I love CSS 💀**
-
-
 ### Connect with me:
 <p align="center">
 <a href="https://twitter.com/Rudra_X_Rudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudra" height="30" width="40" /></a>
