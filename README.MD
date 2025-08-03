@@ -1,12 +1,12 @@
-<p align="center" style="font-family: 'Shadows Into Light', cursive; font-size: 36px;">
+<!-- Load Google Font similar to Excalidraw style -->
+<link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap" rel="stylesheet">
+<p align="center",  font-size: 50px;">
   Rudra👋 Here :)
 </p>
 <p align="center" style="font-family: 'Shadows Into Light', cursive; font-size: 22px;">
   私の世界へようこそ、親愛なる開発者たち
 </p>
 
-<!-- Load Google Font similar to Excalidraw style -->
-<link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap" rel="stylesheet">
 
 
 <p align="center"> 
