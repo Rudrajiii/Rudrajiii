@@ -27,7 +27,7 @@
 |--------|-------------|--------|--------------|------|----------------|
 | **Big(O)wl** | Extension to instantly analyze your code's Time & Space Complexity | 🟡 In Progress | React , js , Recharts, Groq API | [Repo](#) | [Live Preview](#) |
 
-### 🚀 Recent Projects
+### 👉🏻 Recent Projects
 
 | Project | Description | Status | Technologies | Repo | Preview / Demo |
 |--------|-------------|--------|--------------|------|----------------|
@@ -35,6 +35,11 @@
 | College Management System - CMS | Flask-based admin dashboard, leave apps, AI-assisted workflows. | ✅ Completed | Python, Flask, MongoDB | [Repo](#) | — |
 | LeetCode Status Tracker Extension | SPA-aware time tracking, real-time online status integration for portfolio. | 🟡 In Progress | JavaScript (Extension), Webhooks, Portfolio integration | [Repo](#) | — |
 
+### 👉🏻 Frontend Projects
+
+| Id | Status | Technologies | Repo | Preview / Demo |
+|--------|-------------|--------|--------------|------|----------------|
+| 1 | ✅ Completed | React , Tailwind , SVG | [Repo](#) | — |
 
 
 
