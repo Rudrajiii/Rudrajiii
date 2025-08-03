@@ -93,12 +93,20 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/rudrasaha305?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
-📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudrajiii&show_icons=true&locale=en&layout=compact&langs_count=6" alt="rudrajiii" width="350" />
-    <img src="https://github-readme-stats.vercel.app/api?username=rudrajiii&show_icons=true&locale=en" alt="rudrajiii" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrajiii&" alt="rudrajiii" /> 
-</div> make it dark mode
+  <!-- GitHub overall stats (auto switches light/dark) -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=rudrajiii&show_icons=true&locale=en&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=rudrajiii&show_icons=true&locale=en" media="(prefers-color-scheme: light)" />
+    <img alt="rudrajiii GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rudrajiii&show_icons=true&locale=en&theme=dark" />
+  </picture>
+
+  <!-- Top languages (compact layout, dark-aware) -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rudrajiii&show_icons=true&locale=en&layout=compact&langs_count=6&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=rudrajiii&show_icons=true&locale=en&layout=compact&langs_count=6" media="(prefers-color-scheme: light)" />
+    <img alt="Top languages" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudrajiii&show_icons=true&locale=en&layout=compact&langs_count=6&theme=dark" />
+  </picture>
 
   <!-- Streak stats (dark theme) -->
   <picture>
@@ -107,4 +115,3 @@
     <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rudrajiii&theme=dark" />
   </picture>
 </div>
-
