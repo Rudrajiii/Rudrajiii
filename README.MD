@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/Rudrajiii/Rudrajiii/blob/main/type7c-wb.png?raw=true"
-       alt="avatar"
-       style="max-width:90%; width:500px; border-radius:14px; box-shadow:0 15px 40px rgba(0,0,0,0.4);" />
+       />
 </p>
 
 
