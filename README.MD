@@ -35,7 +35,7 @@
 | College Management System - CMS | Flask-based admin dashboard, leave apps, AI-assisted workflows. | ✅ Completed | Python, Flask, MongoDB | [Repo](#) | — |
 | LeetCode Status Tracker Extension | SPA-aware time tracking, real-time online status integration for portfolio. | 🟡 In Progress | JavaScript (Extension), Webhooks, Portfolio integration | [Repo](#) | — |
 
-### 👉🏻 Frontend Projects
+### 👉🏻 Frontend Work - UI/UX
 
 | Id | Status | Technologies | Repo | Preview / Demo |
 |--------|-------------|--------|--------------|------|
