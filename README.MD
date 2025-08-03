@@ -1,4 +1,6 @@
-https://github.com/Rudrajiii/Rudrajiii/blob/main/type7c-wb.png?raw=true
+<p align="center"> 
+  <img src="https://github.com/Rudrajiii/Rudrajiii/blob/main/type7c-wb.png?raw=true" alt="rudrajiii"/> 
+</p>
 <p align="center",  font-size: 100px;">
   Rudra👋 Here :)
 </p>
