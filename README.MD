@@ -38,7 +38,7 @@
 ### 👉🏻 Frontend Projects
 
 | Id | Status | Technologies | Repo | Preview / Demo |
-|--------|-------------|--------|--------------|------|----------------|
+|--------|-------------|--------|--------------|------|
 | 1 | ✅ Completed | React , Tailwind , SVG | [Repo](#) | — |
 
 
