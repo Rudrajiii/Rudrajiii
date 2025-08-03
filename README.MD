@@ -6,7 +6,7 @@
 
 
 <p align="center" style="font-family: 'Shadows Into Light', cursive; font-size: 22px;">
-  私の世界へようこそ、親愛なる開発者たち
+  私の世界へようこそ、親愛なる開発者たち 🩷
 </p>
 
 
