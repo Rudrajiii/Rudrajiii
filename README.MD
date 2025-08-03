@@ -39,7 +39,7 @@
 
 | Id | Status | Technologies | Repo | Preview / Demo |
 |--------|-------------|--------|--------------|------|
-| 1 | ✅ Completed | React , Tailwind , SVG | [Repo](#) | [Live](https://codequest-five.vercel.app/) |
+| 1 | ✅ Completed | React , Tailwind , SVG | [Repo](https://github.com/Rudrajiii/CodeQuest) | [Live](https://codequest-five.vercel.app/) |
 
 
 
