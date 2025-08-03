@@ -1,6 +1,15 @@
-<p align="center"> 
-  <img src="https://github.com/Rudrajiii/Rudrajiii/blob/main/type7c-wb.png?raw=true" alt="rudrajiii"/> 
+<p align="center">
+  <a href="https://github.com/Rudrajiii/Rudrajiii/blob/main/type7c-wb.png?raw=true" target="_blank" rel="noopener">
+    <img src="https://github.com/Rudrajiii/Rudrajiii/blob/main/type7c-wb.png?raw=true"
+         alt="avatar"
+         width="200"
+         style="border-radius:16px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); transition: transform .2s;"
+         onmouseover="this.style.transform='scale(1.05)';"
+         onmouseout="this.style.transform='scale(1)';" />
+  </a>
+  <p style="margin-top:4px; font-size:0.9em; color:gray;">My signature thumbnail</p>
 </p>
+
 
 <p align="center" style="font-family: 'Shadows Into Light', cursive; font-size: 22px;">
   私の世界へようこそ、親愛なる開発者たち
