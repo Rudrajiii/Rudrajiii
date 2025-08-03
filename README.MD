@@ -25,20 +25,17 @@
 
 | Project | Description | Status | Technologies | Repo | Preview / Demo |
 |--------|-------------|--------|--------------|------|----------------|
-| **Recipe App with Gen-AI Enhancements** | Generate recipes via LLM, nutrition analysis, translation, prompt history, user-native language support. | 🟡 In Progress | Node.js, Express, EJS, MongoDB, Firebase, Groq API | [Repo](#) | [Live Preview](#) |
+| **Big(O)wl** | Extension to instantly analyze your code's Time & Space Complexity | 🟡 In Progress | React , js , Recharts, Groq API | [Repo](#) | [Live Preview](#) |
 
 ### 🚀 Recent Projects
 
 | Project | Description | Status | Technologies | Repo | Preview / Demo |
 |--------|-------------|--------|--------------|------|----------------|
-| Voltron-z Discord Bot | Multi-algo maze generator/solver, image/text generation, voice samples, music queue with Spotify previews. | ✅ Completed | Python, Discord API, Spotify API, Unsplash, Groq API | [Repo](#) | — |
-| College Management System | Flask-based admin dashboard, leave apps, AI-assisted workflows. | ✅ Completed | Python, Flask, MongoDB | [Repo](#) | — |
-| LeetCode Time Tracker Extension | SPA-aware time tracking, real-time online status integration for portfolio. | 🟡 In Progress | JavaScript (Extension), Webhooks, Portfolio integration | [Repo](#) | — |
-| Blogging Platform | Admin dashboard, JWT auth, clean EJS/SCSS UI, structured content. | ✅ Completed | Node.js, Express, EJS, SCSS, JWT | [Repo](#) | [Live](#) |
-| Discord Music Queue + Spotify | Temporary queue, skip logic, embedded track previews, single-use preview playback. | ✅ Completed | Python, Spotify API, Discord API | [Repo](#) | — |
-| Profile Image Persistence Fix | Reliable upload/fallback logic for user profile images in Node app. | ✅ Completed | Node.js, Firebase/Cloud Storage, MongoDB | [Repo](#) | — |
-| Combination Sum Algorithms Library | Correct backtracking implementations with deduplication and variants (like Combination Sum II). | ✅ Completed | Python | [Repo](#) | — |
-| Recipe App (earlier iteration) | Prompt history, translation, and nutrition insights via LLM. | 🟡 Maintained | Node.js, Groq API | [Repo](#) | — |
+| VOLT (Discord Bot) | A versatile discord bot. | ✅ Completed | Python, Discord API, Spotify API, Unsplash, Groq API | [Repo](#) | — |
+| College Management System - CMS | Flask-based admin dashboard, leave apps, AI-assisted workflows. | ✅ Completed | Python, Flask, MongoDB | [Repo](#) | — |
+| LeetCode Status Tracker Extension | SPA-aware time tracking, real-time online status integration for portfolio. | 🟡 In Progress | JavaScript (Extension), Webhooks, Portfolio integration | [Repo](#) | — |
+
+
 
 
 ### Connect with me
