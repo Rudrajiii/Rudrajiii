@@ -25,7 +25,7 @@
 
 | Project | Description | Status | Technologies | Repo | Preview / Demo |
 |--------|-------------|--------|--------------|------|----------------|
-| **Big(O)wl** | Extension to instantly analyze your code's Time & Space Complexity | 🟡 In Progress | React , js , Recharts, Groq API | [Repo](#) | [Live Preview](#) |
+| **Big(O)wl** | Extension to instantly analyze your code's Time & Space Complexity | ✅ Completed | React , js , Recharts, Groq API | [Repo](#) | [MicroSoft Addons](https://t.co/vnYPptA3sy) |
 
 ### 👉🏻 Recent Projects
 
