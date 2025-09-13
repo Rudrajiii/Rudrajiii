@@ -31,9 +31,9 @@
 
 | Project | Description | Status | Technologies | Repo | Preview / Demo |
 |--------|-------------|--------|--------------|------|----------------|
-| VOLT (Discord Bot) | A versatile discord bot. | ⌛ In Progress | Python, Discord API, Spotify API, Unsplash, Groq API | [Repo](#) | — |
-| College Management System - CMS | Flask-based admin dashboard, leave apps, AI-assisted workflows. | ⌛ In Progress | Python, Flask, MongoDB | [Repo](#) | — |
-| LeetCode Status Tracker Extension | SPA-aware time tracking, real-time online status integration for portfolio. | ✅ Completed | JavaScript (Extension), Webhooks, Portfolio integration | [Repo](#) | — |
+| VOLT (Discord Bot) | A versatile discord bot. | ⌛ In Progress | Python, Discord API, Spotify API, Unsplash, Groq API | [Repo]() | — |
+| College Management System - CMS | Flask-based admin dashboard, leave apps, AI-assisted workflows. | ⌛ In Progress | Python, Flask, MongoDB | [Repo](https://github.com/Rudrajiii/clg-management-app) | — |
+| LeetCode Status Tracker Extension | SPA-aware time tracking, real-time online status integration for portfolio. | ✅ Completed | JavaScript (Extension), Webhooks, Portfolio integration | [Repo](https://github.com/Rudrajiii/leetcode-status-tracker-extension) | — |
 
 ### 👉🏻 Frontend Work - UI/UX
 
