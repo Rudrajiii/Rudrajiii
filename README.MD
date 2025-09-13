@@ -34,6 +34,7 @@
 | VOLT (Discord Bot) | A versatile discord bot. | ⌛ In Progress | Python, Discord API, Spotify API, Unsplash, Groq API | [Repo](https://github.com/Rudrajiii/VOLT-WEB) | [Live](https://volt-web-rose.vercel.app/) |
 | College Management System - CMS | Flask-based admin dashboard, leave apps, AI-assisted workflows. | ⌛ In Progress | Python, Flask, MongoDB | [Repo](https://github.com/Rudrajiii/clg-management-app) | — |
 | LeetCode Status Tracker Extension | SPA-aware time tracking, real-time online status integration for portfolio. | ✅ Completed | JavaScript (Extension), Webhooks, Portfolio integration | [Repo](https://github.com/Rudrajiii/leetcode-status-tracker-extension) | — |
+| Js-Internals | A npm package provides custom implementations of built-in JavaScript functions, allowing users to understand how these functions work internally | ✅ Completed | JavaScript, Bash | [Repo](https://github.com/Rudrajiii/Js-Internals) | [Live](https://www.npmjs.com/package/js-internals) |
 
 ### 👉🏻 Frontend Work - UI/UX
 
