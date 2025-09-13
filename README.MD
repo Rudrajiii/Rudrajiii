@@ -25,15 +25,15 @@
 
 | Project | Description | Status | Technologies | Repo | Preview / Demo |
 |--------|-------------|--------|--------------|------|----------------|
-| **Big(O)wl** | Extension to instantly analyze your code's Time & Space Complexity | ✅ Completed | React , js , Recharts, Groq API | [Repo](#) | [MicroSoft Addons](https://t.co/vnYPptA3sy) |
+| **Big(O)wl** | Extension to instantly analyze your code's Time & Space Complexity | ✅ Completed | React , js , Recharts, Groq API | [Repo](https://github.com/Rudrajiii/Big-O-wl) | [MicroSoft Addons](https://t.co/vnYPptA3sy) |
 
 ### 👉🏻 Recent Projects
 
 | Project | Description | Status | Technologies | Repo | Preview / Demo |
 |--------|-------------|--------|--------------|------|----------------|
-| VOLT (Discord Bot) | A versatile discord bot. | ✅ Completed | Python, Discord API, Spotify API, Unsplash, Groq API | [Repo](#) | — |
-| College Management System - CMS | Flask-based admin dashboard, leave apps, AI-assisted workflows. | ✅ Completed | Python, Flask, MongoDB | [Repo](#) | — |
-| LeetCode Status Tracker Extension | SPA-aware time tracking, real-time online status integration for portfolio. | 🟡 In Progress | JavaScript (Extension), Webhooks, Portfolio integration | [Repo](#) | — |
+| VOLT (Discord Bot) | A versatile discord bot. | ⌛ In Progress | Python, Discord API, Spotify API, Unsplash, Groq API | [Repo](#) | — |
+| College Management System - CMS | Flask-based admin dashboard, leave apps, AI-assisted workflows. | ⌛ In Progress | Python, Flask, MongoDB | [Repo](#) | — |
+| LeetCode Status Tracker Extension | SPA-aware time tracking, real-time online status integration for portfolio. | ✅ Completed | JavaScript (Extension), Webhooks, Portfolio integration | [Repo](#) | — |
 
 ### 👉🏻 Frontend Work - UI/UX
 
