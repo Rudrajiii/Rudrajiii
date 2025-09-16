@@ -19,43 +19,31 @@
   🛠 Technologies: React, JavaScript, Recharts, Groq API  
   
 
-# 👉🏻 Recent Projects
+## 👉🏻 Recent Projects
 
-- **VOLT (Discord Bot)**  
+- **VOLT (Discord Bot)** / 📂 [Repo](https://github.com/Rudrajiii/VOLT-WEB) / 🔗 [Live](https://volt-web-rose.vercel.app/)  
   A versatile Discord bot.  
   ⌛ Status: In Progress  
   🛠 Technologies: Python, Discord API, Spotify API, Unsplash, Groq API  
-  📂 [Repo](https://github.com/Rudrajiii/VOLT-WEB)  
-  🔗 [Live](https://volt-web-rose.vercel.app/)  
-
-- **College Management System (CMS)**  
+   
+- **College Management System (CMS)** / 🛠 Technologies: Python, Flask, MongoDB / 📂 [Repo](https://github.com/Rudrajiii/clg-management-app)
   Flask-based admin dashboard, leave apps, AI-assisted workflows.  
   ⌛ Status: In Progress  
-  🛠 Technologies: Python, Flask, MongoDB  
-  📂 [Repo](https://github.com/Rudrajiii/clg-management-app)  
-
-- **LeetCode Status Tracker Extension**  
+  
+- **LeetCode Status Tracker Extension**  / 🛠 Technologies: JavaScript (Extension), Webhooks, Portfolio integration / 📂 [Repo](https://github.com/Rudrajiii/leetcode-status-tracker-extension)
   SPA-aware time tracking, real-time online status integration for portfolio.  
-  ✅ Status: Completed  
-  🛠 Technologies: JavaScript (Extension), Webhooks, Portfolio integration  
-  📂 [Repo](https://github.com/Rudrajiii/leetcode-status-tracker-extension)  
+  ✅ Status: Completed    
 
-- **Js-Internals**  
+- **Js-Internals**  / 📂 [Repo](https://github.com/Rudrajiii/Js-Internals) / 🔗 [Live](https://www.npmjs.com/package/js-internals)
   An npm package that provides custom implementations of built-in JavaScript functions, helping users understand how these functions work internally.  
   ✅ Status: Completed  
   🛠 Technologies: JavaScript, Bash  
-  📂 [Repo](https://github.com/Rudrajiii/Js-Internals)  
-  🔗 [Live](https://www.npmjs.com/package/js-internals)  
+   
+## 👉🏻 Frontend Work - UI/UX
 
-# 👉🏻 Frontend Work - UI/UX
-
-- **CodeQuest**  
+- **CodeQuest**  / 📂 [Repo](https://github.com/Rudrajiii/CodeQuest) / 🔗 [Live](https://codequest-five.vercel.app/)
   ✅ Status: Completed  
-  🛠 Technologies: React, Tailwind, SVG  
-  📂 [Repo](https://github.com/Rudrajiii/CodeQuest)  
-  🔗 [Live](https://codequest-five.vercel.app/)  
-
-
+  🛠 Technologies: React, Tailwind, SVG    
 
 
 ### Connect with me
