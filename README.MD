@@ -26,13 +26,15 @@
   ⌛ Status: In Progress  
   🛠 Technologies: Python, Discord API, Spotify API, Unsplash, Groq API  
    
-- **College Management System (CMS)** / 🛠 Technologies: Python, Flask, MongoDB / 📂 [Repo](https://github.com/Rudrajiii/clg-management-app)
+- **College Management System (CMS)** / 📂 [Repo](https://github.com/Rudrajiii/clg-management-app)
   Flask-based admin dashboard, leave apps, AI-assisted workflows.  
+  🛠 Technologies: Python, Flask, MongoDB 
   ⌛ Status: In Progress  
   
-- **LeetCode Status Tracker Extension**  / 🛠 Technologies: JavaScript (Extension), Webhooks, Portfolio integration / 📂 [Repo](https://github.com/Rudrajiii/leetcode-status-tracker-extension)
+- **LeetCode Status Tracker Extension** / 📂 [Repo](https://github.com/Rudrajiii/leetcode-status-tracker-extension)
   SPA-aware time tracking, real-time online status integration for portfolio.  
-  ✅ Status: Completed    
+ 🛠 Technologies: JavaScript (Extension), Webhooks, Portfolio integration 
+ ✅ Status: Completed    
 
 - **Js-Internals**  / 📂 [Repo](https://github.com/Rudrajiii/Js-Internals) / 🔗 [Live](https://www.npmjs.com/package/js-internals)
   An npm package that provides custom implementations of built-in JavaScript functions, helping users understand how these functions work internally.  
