@@ -20,8 +20,6 @@
   📂 [Repo](https://github.com/Rudrajiii/Big-O-wl)  
   🔗 [Microsoft Addons](https://t.co/vnYPptA3sy)  
 
----
-
 # 👉🏻 Recent Projects
 
 - **VOLT (Discord Bot)**  
@@ -49,8 +47,6 @@
   🛠 Technologies: JavaScript, Bash  
   📂 [Repo](https://github.com/Rudrajiii/Js-Internals)  
   🔗 [Live](https://www.npmjs.com/package/js-internals)  
-
----
 
 # 👉🏻 Frontend Work - UI/UX
 
