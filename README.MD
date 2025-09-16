@@ -13,7 +13,7 @@
 
 ## 🔭 Current Project
 
-- **Big(O)wl**  / 📂 [Repo](https://github.com/Rudrajiii/Big-O-wl)  / 🔗 [Microsoft Addons](https://t.co/vnYPptA3sy)
+- **Big(O)wl**  / 📂 [Repo](https://github.com/Rudrajiii/Big-O-wl)  / 🔗 [Microsoft Addons](https://t.co/vnYPptA3sy) /
   Extension to instantly analyze your code's Time & Space Complexity.  
   ✅ Status: Completed  
   🛠 Technologies: React, JavaScript, Recharts, Groq API  
