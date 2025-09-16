@@ -11,26 +11,55 @@
 
 
 
-### 🔭 Current Project
+# 🔭 Current Project
 
-| Project | Description | Status | Technologies | Repo | Preview / Demo |
-|--------|-------------|--------|--------------|------|----------------|
-| **Big(O)wl** | Extension to instantly analyze your code's Time & Space Complexity | ✅ Completed | React , js , Recharts, Groq API | [Repo](https://github.com/Rudrajiii/Big-O-wl) | [MicroSoft Addons](https://t.co/vnYPptA3sy) |
+- **Big(O)wl**  
+  Extension to instantly analyze your code's Time & Space Complexity.  
+  ✅ Status: Completed  
+  🛠 Technologies: React, JavaScript, Recharts, Groq API  
+  📂 [Repo](https://github.com/Rudrajiii/Big-O-wl)  
+  🔗 [Microsoft Addons](https://t.co/vnYPptA3sy)  
 
-### 👉🏻 Recent Projects
+---
 
-| Project | Description | Status | Technologies | Repo | Preview / Demo |
-|--------|-------------|--------|--------------|------|----------------|
-| VOLT (Discord Bot) | A versatile discord bot. | ⌛ In Progress | Python, Discord API, Spotify API, Unsplash, Groq API | [Repo](https://github.com/Rudrajiii/VOLT-WEB) | [Live](https://volt-web-rose.vercel.app/) |
-| College Management System - CMS | Flask-based admin dashboard, leave apps, AI-assisted workflows. | ⌛ In Progress | Python, Flask, MongoDB | [Repo](https://github.com/Rudrajiii/clg-management-app) | — |
-| LeetCode Status Tracker Extension | SPA-aware time tracking, real-time online status integration for portfolio. | ✅ Completed | JavaScript (Extension), Webhooks, Portfolio integration | [Repo](https://github.com/Rudrajiii/leetcode-status-tracker-extension) | — |
-| Js-Internals | A npm package provides custom implementations of built-in JavaScript functions, allowing users to understand how these functions work internally | ✅ Completed | JavaScript, Bash | [Repo](https://github.com/Rudrajiii/Js-Internals) | [Live](https://www.npmjs.com/package/js-internals) |
+# 👉🏻 Recent Projects
 
-### 👉🏻 Frontend Work - UI/UX
+- **VOLT (Discord Bot)**  
+  A versatile Discord bot.  
+  ⌛ Status: In Progress  
+  🛠 Technologies: Python, Discord API, Spotify API, Unsplash, Groq API  
+  📂 [Repo](https://github.com/Rudrajiii/VOLT-WEB)  
+  🔗 [Live](https://volt-web-rose.vercel.app/)  
 
-| Id | Status | Technologies | Repo | Preview / Demo |
-|--------|-------------|--------|--------------|------|
-| 1 | ✅ Completed | React , Tailwind , SVG | [Repo](https://github.com/Rudrajiii/CodeQuest) | [Live](https://codequest-five.vercel.app/) |
+- **College Management System (CMS)**  
+  Flask-based admin dashboard, leave apps, AI-assisted workflows.  
+  ⌛ Status: In Progress  
+  🛠 Technologies: Python, Flask, MongoDB  
+  📂 [Repo](https://github.com/Rudrajiii/clg-management-app)  
+
+- **LeetCode Status Tracker Extension**  
+  SPA-aware time tracking, real-time online status integration for portfolio.  
+  ✅ Status: Completed  
+  🛠 Technologies: JavaScript (Extension), Webhooks, Portfolio integration  
+  📂 [Repo](https://github.com/Rudrajiii/leetcode-status-tracker-extension)  
+
+- **Js-Internals**  
+  An npm package that provides custom implementations of built-in JavaScript functions, helping users understand how these functions work internally.  
+  ✅ Status: Completed  
+  🛠 Technologies: JavaScript, Bash  
+  📂 [Repo](https://github.com/Rudrajiii/Js-Internals)  
+  🔗 [Live](https://www.npmjs.com/package/js-internals)  
+
+---
+
+# 👉🏻 Frontend Work - UI/UX
+
+- **CodeQuest**  
+  ✅ Status: Completed  
+  🛠 Technologies: React, Tailwind, SVG  
+  📂 [Repo](https://github.com/Rudrajiii/CodeQuest)  
+  🔗 [Live](https://codequest-five.vercel.app/)  
+
 
 
 
