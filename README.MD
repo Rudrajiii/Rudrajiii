@@ -25,12 +25,6 @@ A versatile Discord bot.
 ⌛ Status: In Progress  
 🛠 Technologies: Python, Discord API, Spotify API, Unsplash, Groq API  
 
-
-**College Management System (CMS)** · 📂 [Repo](https://github.com/Rudrajiii/clg-management-app)  
-Flask-based admin dashboard, leave apps, AI-assisted workflows.  
-⌛ Status: In Progress  
-🛠 Technologies: Python, Flask, MongoDB  
-
 **LeetCode Status Tracker Extension** · 📂 [Repo](https://github.com/Rudrajiii/leetcode-status-tracker-extension)  
 SPA-aware time tracking, real-time online status integration for portfolio.  
 ✅ Status: Completed  
