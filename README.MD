@@ -11,48 +11,48 @@
 
 
 
-## 🔭 Current Project
+## [Current Project]
 
  **4-bit mini ALU** · 📂 [Repo](https://github.com/Rudrajiii/Logic_Gates)
 
 Supported Operations ADD , SUB , INC , AND , OR , XOR , NOT , ZERO  
-✅ Status: Completed  
-🛠 Technologies: Logism , Digital Logic
+**Status** : Completed  
+**Technologies** : Logism , Digital Logic
 
  **Big(O)wl** · 📂 [Repo](https://github.com/Rudrajiii/Big-O-wl) / 🔗 [Microsoft Addons](https://t.co/vnYPptA3sy)  
 
 Extension to instantly analyze your code's Time & Space Complexity.  
-✅ Status: Completed  
-🛠 Technologies: React, JavaScript, Recharts, Groq API  
+**Status** : Completed  
+**Technologies** : React, JavaScript, Recharts, Groq API  
 
-## 👉🏻 Recent Projects
+## [Recent Projects]
 
 **A Minimal Sequential Array Traversal Simulation in Logism** · 📂 [Repo](https://github.com/Rudrajiii/Logic_Gates) 
 
 - sequential access
 - register-based indexing
-⌛ Status: Completed 
-🛠 Technologies: Logism , Digital Login
+**Status** : Completed 
+**Technologies** : Logism , Digital Login
 
 **LeetCode Status Tracker Extension** · 📂 [Repo](https://github.com/Rudrajiii/leetcode-status-tracker-extension)  
 
 SPA-aware time tracking, real-time online status integration for portfolio.  
-✅ Status: Completed  
-🛠 Technologies: JavaScript (Extension), Webhooks, Portfolio integration  
+**Status** : Completed  
+**Technologies** : JavaScript (Extension), Webhooks, Portfolio integration  
 
 
 **Js-Internals** · 📂 [Repo](https://github.com/Rudrajiii/Js-Internals) / 🔗 [Live](https://www.npmjs.com/package/js-internals)  
 
 An npm package that provides custom implementations of built-in JavaScript functions, helping users understand how these functions work internally.  
-✅ Status: Completed  
-🛠 Technologies: JavaScript, Bash  
+**Status** : Completed  
+**Technologies** : JavaScript, Bash  
 
-## 👉🏻 Frontend Work - UI/UX
+## [Frontend Work] - UI/UX
 
 **CodeQuest** · 📂 [Repo](https://github.com/Rudrajiii/CodeQuest) / 🔗 [Live](https://codequest-five.vercel.app/)  
 
-✅ Status: Completed  
-🛠 Technologies: React, Tailwind, SVG  
+**Status** : Completed  
+**Technologies** : React, Tailwind, SVG  
   
 
 
