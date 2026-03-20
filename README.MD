@@ -13,6 +13,11 @@
 
 ## 🔭 Current Project
 
+ **4-bit mini ALU** · 📂 [Repo](https://github.com/Rudrajiii/Logic_Gates)
+Supported Operations ADD , SUB , INC , AND , OR , XOR , NOT , ZERO  
+✅ Status: Completed  
+🛠 Technologies: Logism , Digital Logic
+
  **Big(O)wl** · 📂 [Repo](https://github.com/Rudrajiii/Big-O-wl) / 🔗 [Microsoft Addons](https://t.co/vnYPptA3sy)  
 Extension to instantly analyze your code's Time & Space Complexity.  
 ✅ Status: Completed  
@@ -20,10 +25,11 @@ Extension to instantly analyze your code's Time & Space Complexity.
 
 ## 👉🏻 Recent Projects
 
-**VOLT (Discord Bot)** · 📂 [Repo](https://github.com/Rudrajiii/VOLT-WEB) / 🔗 [Live](https://volt-web-rose.vercel.app/)  
-A versatile Discord bot.  
-⌛ Status: In Progress  
-🛠 Technologies: Python, Discord API, Spotify API, Unsplash, Groq API  
+**A Minimal Sequential Array Traversal Simulation in Logism** · 📂 [Repo](https://github.com/Rudrajiii/Logic_Gates) 
+- sequential access
+- register-based indexing
+⌛ Status: Completed 
+🛠 Technologies: Logism , Digital Login
 
 **LeetCode Status Tracker Extension** · 📂 [Repo](https://github.com/Rudrajiii/leetcode-status-tracker-extension)  
 SPA-aware time tracking, real-time online status integration for portfolio.  
