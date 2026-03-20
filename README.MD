@@ -1,7 +1,8 @@
 
-
-https://github.com/user-attachments/assets/bb7f35c4-e64b-43e8-8297-85c2adf4c325
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb7f35c4-e64b-43e8-8297-85c2adf4c325"
+       />
+</p>
 
 
 <p align="center" style="font-family: 'Shadows Into Light', cursive; font-size: 22px;">
