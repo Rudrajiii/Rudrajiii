@@ -13,7 +13,7 @@
 
 ## 🔭 Current Project
 
- **4-bit mini ALU** · 📂 [Repo](https://github.com/Rudrajiii/Logic_Gates) 
+ **4-bit mini ALU** · 📂 [Repo](https://github.com/Rudrajiii/Logic_Gates) /
 Supported Operations ADD , SUB , INC , AND , OR , XOR , NOT , ZERO  
 ✅ Status: Completed  
 🛠 Technologies: Logism , Digital Logic
