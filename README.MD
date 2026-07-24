@@ -18,11 +18,11 @@ Supported Operations ADD , SUB , INC , AND , OR , XOR , NOT , ZERO
 **Status** : Completed  
 **Technologies** : Logism , Digital Logic
 
- **Big(O)wl** · 📂 [Repo](https://github.com/Rudrajiii/Big-O-wl) / 🔗 [Microsoft Addons](https://t.co/vnYPptA3sy)  
+ **BitPress** · 📂 [Repo](https://github.com/Rudrajiii/bit-press) 
 
-Extension to instantly analyze your code's Time & Space Complexity.  
+A zero-dependency text compression utility implementing Huffman Coding from scratch in Python.
 **Status** : Completed  
-**Technologies** : React, JavaScript, Recharts, Groq API  
+**Technologies** : Python, Data Structures, Huffman Coding  
 
 ## [Recent Projects]
 
