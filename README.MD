@@ -15,12 +15,14 @@
  **4-bit mini ALU** · 📂 [Repo](https://github.com/Rudrajiii/Logic_Gates)
 
 Supported Operations ADD , SUB , INC , AND , OR , XOR , NOT , ZERO  
+
 **Status** : Completed  
 **Technologies** : Logism , Digital Logic
 
  **BitPress** · 📂 [Repo](https://github.com/Rudrajiii/bit-press) 
 
 A zero-dependency text compression utility implementing Huffman Coding from scratch in Python                                              
+
 **Status** : Completed  
 **Technologies** : Python, Data Structures, Huffman Coding  
 
